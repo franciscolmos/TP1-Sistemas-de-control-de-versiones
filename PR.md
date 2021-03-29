@@ -1,0 +1,1 @@
+* Un pull request es una revision de codigo en la cual se verifican diversas cosas segun se especifique como deploy, builds, tareas asignadas a cada persona. Esta revision se debe hacer porque se va a mergear de una rama a otra.
