@@ -1,6 +1,7 @@
 # Francisco Augusto Olmos Bossa
 
-* Edada: 27
-* Facultad: UBP
-* Estudios: Ingenieria Informatica
-* tel: 3516196398
+* Edad: 21
+* Facultad: Harvard
+* Estudios: Ingenieria de la Nasa
+* tel: 35169875
+
