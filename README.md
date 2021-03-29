@@ -1,3 +1,5 @@
 # Francisco Augusto Olmos Bossa
 
-[Curriculum Vitae](CV.md)
+* [Curriculum Vitae](CV.md)
+
+* [Pull Request](PR.md)
